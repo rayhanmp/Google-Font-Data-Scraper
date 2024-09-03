@@ -120,4 +120,4 @@ Program ini ditulis dengan menggunakan _library_ `BeautifulSoup` untuk proses _p
 
 Program untuk simulasi gerakan _scrolling_ didasarkan pada program yang ditulis oleh [Kuan Wei](https://medium.com/analytics-vidhya/using-python-and-selenium-to-scrape-infinite-scroll-web-pages-825d12c24ec7). Namun, program dimodifikasi untuk menyesuaikan perilaku dan karakteristik dari situs web Google Font sehingga pengambilan data tidak dilakukan di akhir, melainkan di tiap kali iterasi _scroll down_.
 ## Author
-Program ini dibuat oleh Rayhan Maheswara Pramanda (18221130) dari program studi sistem dan teknologi informasi.
+Program ini dibuat oleh Rayhan Maheswara Pramanda (18221130) dari program studi Sistem dan Teknologi Informasi.
